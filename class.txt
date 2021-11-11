@@ -17,4 +17,4 @@ git commit
 git commit -m "titulo do comit entre aspas"
 
 git push
-git push -u origin master
+git push -u origin master => será usado no primeiro commit, depois é só utilizar o "git push"
