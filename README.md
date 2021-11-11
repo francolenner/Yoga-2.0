@@ -1,6 +1,6 @@
 # Yoga-2.0
 
-<img src="https://raw.githubusercontent.com/francolenner/zzYoga---Interface-2.0/master/assets/final%20result.png?token=AWGITKYDTOGZAD5VCTT6GWLBRVYDK" alt="Imagem do Projeto yoga">
+<img src="./assets/yoga.png " alt="Imagem do Projeto yoga">
 
 >Resultado do Projeto Yoga.
 
